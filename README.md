@@ -1,6 +1,6 @@
 ### Hi, I'm Anuj
 
-Math + Business at the University of Waterloo and Wilfrid Laurier University. I build full-stack web apps for real communities, and robots.
+Math + Business double degree at the University of Waterloo. I build full-stack web apps for community organizations and robots.
 
 - **[myhighschool.club](https://github.com/anujmish1229/myhighschool.club)**: co-founder, deployment lead and full-stack developer. Club websites for Ontario high schools; ran for a school year and reached 10+ schools (React, Supabase, Row Level Security).
 - **Websites for five community organizations** in Durham Region and Uganda, still maintained:

@@ -31,7 +31,7 @@
     browser-based exoplanet classifier on kepler and tess data, 99.7% accuracy. led web development on a team of four
   </td></tr>
   <tr><td>
-    <a href="https://myhighschool.club"><b>myhighschool.club</b></a>&nbsp;&nbsp;<a href="https://github.com/anujmish1229/myhighschool.club">source</a>&nbsp;&nbsp;<code>typescript</code> <code>react</code> <code>supabase</code> <code>postgres</code> <code>github&nbsp;actions</code><br>
+    <a href="https://github.com/anujmish1229/myhighschool.club"><b>myhighschool.club</b></a>&nbsp;&nbsp;<code>typescript</code> <code>react</code> <code>supabase</code> <code>postgres</code> <code>github&nbsp;actions</code><br>
     co-founded it: club websites for 10+ ontario high schools, with templates, an approval workflow and row level security. i lead deployments and releases
   </td></tr>
   <tr><td>

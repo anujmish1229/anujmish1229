@@ -66,7 +66,7 @@ sites i built and still run, all <code>typescript</code> <code>react</code> <cod
 
 
 - **robotics coach @ zebra robotics**: taught robotics and coding, from lego spike and python to arduino c. also taught at iq brainers academy
-- **awards**: bronze in web design at skills ontario and 1st at skills durham (2026), 1st at the ontario tech × sun life ctf (2025), 3rd at nasa space apps (2024)
+- **awards**: 1st at nasa space apps (2026), bronze in web design at skills ontario and 1st at skills durham (2026), 4th in web design at skills ontario and 2nd at skills durham (2025), 3rd at nasa space apps (2024)
 
 
 ### stack
